@@ -10,4 +10,4 @@ def isPrime():
             n = n/i
     return factors
 
-print(isPrime())
+print(isPrime())    #prints the prime factors of the given number
