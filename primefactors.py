@@ -11,4 +11,3 @@ def isPrime():
     return factors
 
 print(isPrime())
-print('New Line added')
