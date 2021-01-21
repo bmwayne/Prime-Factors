@@ -11,5 +11,4 @@ def isPrime():
     return factors
 
 print(isPrime())
-print('Hello world!')
-#Invoker
+print('New Line added')
